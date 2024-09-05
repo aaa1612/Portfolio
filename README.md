@@ -1,6 +1,6 @@
 This research project attempts to apply supervised learning methods to execute Human Activity 
 Recognition (HAR) in senior citizens using the HAR70+ datasets comprising of time-series data of 
-participants aged between 70 and 95 years. The paper deals with the issues of identifying a number of dayto-day activities, including the problems of non-stationarity in the data gathered by sensors and class 
+participants aged between 70 and 95 years. The paper deals with the issues of identifying a number of day-to-day activities, including the problems of non-stationarity in the data gathered by sensors and class 
 imbalance in the datasets. The supervised learning models used are Linear Discriminant Analysis (LDA), 
 Quadratic Discriminant Analysis (QDA), Decision Trees, Random Forest, XGBoost, Multilayer Perceptron 
 (MLP), Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) on individual and 
