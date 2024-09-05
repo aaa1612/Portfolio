@@ -1,1 +1,1 @@
-The Portfolio has some sections 
+The Portfolio contains a few sections including the following branches: main, Knowledge Discovery & Datamining Python, Software for Data Analysis, Risk Management, Multivariate Analysis Clustering R, Database Management Systems SQL, and Other. Please feel free to explore them!
